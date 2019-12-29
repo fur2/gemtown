@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"主街","order":1,"parentId":0,"scrollX":2238.6666666666665,"scrollY":625.3333333333334},
+{"id":2,"expanded":false,"name":"车站","order":2,"parentId":1,"scrollX":1678.6666666666667,"scrollY":704},
+{"id":3,"expanded":false,"name":"初始化","order":5,"parentId":0,"scrollX":1037.3333333333333,"scrollY":636},
+{"id":4,"expanded":true,"name":"广场","order":3,"parentId":1,"scrollX":1037.3333333333333,"scrollY":636},
+{"id":5,"expanded":false,"name":"广场2","order":4,"parentId":1,"scrollX":1037.3333333333333,"scrollY":636}
+]
