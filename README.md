@@ -1,6 +1,6 @@
 # gemtown
 
-测试用，部分素材会后期替换。
+测试用。
 
 https://gemtown.now.sh
 
