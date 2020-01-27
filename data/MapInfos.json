@@ -10,6 +10,6 @@ null,
 {"id":8,"expanded":true,"name":"开场欢迎","order":9,"parentId":3,"scrollX":780,"scrollY":477},
 {"id":9,"expanded":true,"name":"主街","order":10,"parentId":8,"scrollX":1820,"scrollY":469},
 {"id":10,"expanded":false,"name":"客栈","order":7,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":11,"expanded":false,"name":"客栈","order":11,"parentId":8,"scrollX":832,"scrollY":640},
-{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":8,"scrollX":832,"scrollY":640}
+{"id":11,"expanded":false,"name":"客栈","order":11,"parentId":8,"scrollX":780,"scrollY":477},
+{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":8,"scrollX":780,"scrollY":477}
 ]
